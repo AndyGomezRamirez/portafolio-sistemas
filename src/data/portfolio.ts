@@ -4,14 +4,14 @@ export const personalInfo: PersonalInfo = {
   name: "Andy Gomez Ramirez",
   title: "Estudiante de Ingeniería de Sistemas",
   description: "Apasionado por la tecnología y el desarrollo de software. Especializado en desarrollo web full-stack con experiencia en React, Node.js y bases de datos. Siempre buscando nuevos desafíos y oportunidades para crecer profesionalmente.",
-  image: "/profile-placeholder.jpg",
+  image: "/messi.jpg",
   resume: "/resume.pdf",
   contact: {
     email: "sammirgomezr@gmail.com",
     phone: "+57 300 123 4567",
     location: "Nuevo Chimbote, Perú",
     social: {
-      github: "https://github.com/tuusuario",
+      github: "https://github.com/AndyGomezRamirez",
       linkedin: "https://linkedin.com/in/tuusuario",
       twitter: "https://twitter.com/tuusuario"
     }
